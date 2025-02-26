@@ -1,0 +1,17 @@
+{
+    "Predicted_Disease": "Brain Tumor",
+    "Confidence_Score": 80,
+    "Description": "A mass or lesion is visible in the left hemisphere of the brain, near the frontal lobe. The mass is slightly hyperintense compared to the surrounding brain tissue.",
+    "Possible_Causes": [
+        "Meningioma",
+        "Glioma",
+        "Metastasis"
+    ],
+    "Recommended_Actions": [
+        "MRI Follow-up",
+        "Neurosurgical Consultation",
+        "Neuroimaging Review",
+        "Tumor Markers",
+        "Biopsy"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Predicted_Disease": "Glioma",
+    "Confidence_Score": 90,
+    "Description": "Gliomas are a type of brain cancer that arises from glial cells, which are the supportive cells of the brain. They can be benign or malignant and may cause symptoms such as headaches, seizures, and cognitive decline.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Radiation exposure",
+        "Viral infections"
+    ],
+    "Recommended_Actions": [
+        "Medical history",
+        "Physical examination",
+        "Imaging studies (MRI or CT scans)",
+        "Biopsy and histopathological examination",
+        "Surgery",
+        "Radiation therapy",
+        "Chemotherapy"
+    ]
+}
