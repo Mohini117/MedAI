@@ -8,6 +8,8 @@ langchain_groq
 openai
 gtts
 pygame
+pipwin
+pyaudio
 gTTs
 plyer
 pydub
