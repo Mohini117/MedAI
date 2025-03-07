@@ -9,7 +9,8 @@ openai
 gtts
 pygame
 pipwin
-pyaudio
+sounddevice
+speechrecognition
 gTTs
 plyer
 pydub
