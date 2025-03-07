@@ -1,0 +1,19 @@
+{
+    "Date": "13/09/2023",
+    "Patient": {
+        "Name": "John Doe",
+        "Age": "32"
+    },
+    "Medicines": [
+        {
+            "Type": "Tablet",
+            "Medicine": "Paracetamol",
+            "Dosage": "1 tablet twice daily",
+            "Timings": [
+                "9:15",
+                "9:17",
+                "1"
+            ]
+        }
+    ]
+}

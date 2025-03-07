@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "about Sachin's medication"
+    },
+    {
+        "role": "assistant",
+        "content": "Sachin should take Temodar (Temozolomide) chemotherapy to treat Glioblastoma Multiforme (GBM)."
+    }
+]

@@ -10,9 +10,9 @@
             "Medicine": "Augmentin",
             "Dosage": "625mg",
             "Timings": [
-                "8 AM",
-                "1 PM",
-                "7 PM"
+                8,
+                1,
+                5
             ]
         },
         {
@@ -20,9 +20,9 @@
             "Medicine": "Enzoflam",
             "Dosage": "40mg",
             "Timings": [
-                "8 AM",
-                "1 PM",
-                "7 PM"
+                8,
+                1,
+                5
             ]
         }
     ]

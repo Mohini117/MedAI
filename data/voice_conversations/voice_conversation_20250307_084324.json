@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell me about description"
+    },
+    {
+        "role": "assistant",
+        "content": "The description is a detailed explanation of Glioblastoma, a type of aggressive and malignant brain tumor. It provides information on its origin, effects, and possible causes."
+    }
+]

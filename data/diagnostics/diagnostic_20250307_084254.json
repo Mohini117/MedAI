@@ -1,0 +1,16 @@
+{
+    "Predicted_Disease": "Glioblastoma",
+    "Confidence_Score": 80,
+    "Description": "Glioblastoma is a type of brain tumor that originates in the brain's glial cells. It is typically aggressive and malignant, and it can cause significant damage to surrounding brain tissue.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Exposure to certain chemicals or radiation",
+        "Head injuries or trauma",
+        "Certain infections or viruses"
+    ],
+    "Recommended_Actions": [
+        "Surgery to remove as much of the tumor as possible",
+        "Radiation therapy to kill any remaining cancer cells",
+        "Chemotherapy to slow the growth of the tumor and prevent it from spreading"
+    ]
+}

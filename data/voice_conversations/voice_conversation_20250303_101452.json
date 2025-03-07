@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "about Sachin's medication"
+    },
+    {
+        "role": "assistant",
+        "content": "Sachin should take Temodar (Temozolomide) chemotherapy to treat Glioblastoma Multiforme (GBM)."
+    },
+    {
+        "role": "user",
+        "content": "hello what is brain tumor"
+    },
+    {
+        "role": "assistant",
+        "content": "A brain tumor is an abnormal growth of cells in the brain, which can be cancerous or non-cancerous, and can cause various symptoms like headaches, seizures, and vision problems."
+    }
+]

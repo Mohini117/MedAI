@@ -1,37 +1,35 @@
 {
     "Date": "12/10/22",
     "Patient": {
-        "Name": "Mr. Sachin Sansare",
+        "Name": "Mr. Sachin Bansal",
         "Age": "28/m"
     },
     "Medicines": [
         {
             "Type": "Tab.",
-            "Medicine": "Augmentin 625 mg",
-            "Dosage": "1-0-1",
+            "Medicine": "Augmentin 625mg",
             "Timings": [
-                "8 AM",
-                "1 PM",
-                "7 PM"
+                8,
+                1,
+                1
             ]
         },
         {
             "Type": "Tab.",
             "Medicine": "Enzoflam",
-            "Dosage": "1-0-1",
             "Timings": [
-                "8 AM",
-                "1 PM",
-                "7 PM"
+                1,
+                0,
+                1
             ]
         },
         {
             "Type": "Tab.",
             "Medicine": "PanD 40mg",
-            "Dosage": "1-0-0",
             "Timings": [
-                "8 AM",
-                "1 PM"
+                1,
+                0,
+                0
             ]
         }
     ]

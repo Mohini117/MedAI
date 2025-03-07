@@ -1,0 +1,17 @@
+{
+    "Predicted_Disease": "Glioblastoma Multiforme (GBM)",
+    "Confidence_Score": 90,
+    "Description": "A large, well-defined, oval-shaped mass lesion in the left cerebral hemisphere, likely a high-grade glioma like GBM.",
+    "Possible_Causes": [
+        "Genetic predisposition",
+        "Radiation exposure",
+        "Viral infections",
+        "Environmental factors"
+    ],
+    "Recommended_Actions": [
+        "Surgical resection of the tumor",
+        "Radiation therapy",
+        "Chemotherapy",
+        "Targeted therapies"
+    ]
+}
